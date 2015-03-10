@@ -19,8 +19,24 @@ Final Paper
 	To study the effects of tablet computers and educational the proposed study would require recruiting preschool aged participants from a wide variety of cultural, social, and ethnic backgrounds. It is important that the children represent the range of educational attainment achieved by preschoolers. Additionally, they must have a wide variety of experiences interacting with technology.
 	Ideally, participants with little to no experience with tablet computers could be recruited from both preschools in poor, urban areas where economics is the limiting factor on technology, and groups with stronger cultural aversions to children using computers where the choice not to introduce children to tablet computers is voluntary. Children should also be recruited from a range of geographic regions and countries.
 	Because children are expected to be able to reliably count up to ten objects by the time they enter kindergarten and the experiment will require testing the children on a range of simple mathematics questions, the ideal age range of the children will be between the ages of four and five years.
-
 //Method
+	Participants will be assigned into one of ten conditions. The conditions are as follows: 
+	physical practice, electronic testing, unlimited time,
+	physical practice, electronic testing, limited time,
+	physical practice, physical testing, unlimited time,
+	physical practice, physical testing, limited time,
+	electronic practice, electronic testing, unlimited time,
+	electronic practice, electronic testing, limited time,
+	electronic practice, physical testing, unlimited time,
+	electronic practice, physical testing, limited time,
+	control group, physical testing,
+	control group, electronic testing.
+	There will be a pilot study determining the possibility of using an auditory testing condition for all groups. This would reduce the number of conditions to five, which is much more reasonable.
+	The experiment will take place over the course of one five day week. On Monday morning, researchers will test the children's base level of mathematical reasoning skills by asking them to answer ten randomly selected addition questions drawn from a pool of all twenty-five addition permutations from one to 5 (1+1, 1+2, ... 5+4,5+5). The number range is chosen because the max sum equals ten and children entering kindergarten are not expected to have more than a passing familiarity with numbers larger than ten.
+	The testing process will be carried out in the manner dictated by the experimental condition. In electronic testing, the test will be administered via a simple iPad application. For physical testing, the child will be expected to choose the correct number from a pile of number flashcards while the stimulus will be in flashcard form. For auditory testing, an adult will ask the child the addition question and expect a verbal response, prompting if some other response, for example raising some number of fingers, is given. During all testing conditions, no attempt should be made to encourage or discourage any self prompted strategies such as counting on fingers or drawing on the screen or table.
+	Practice method
+
+
 //Results
 //Conclusions
 
